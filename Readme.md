@@ -25,8 +25,8 @@ Skrip otomatis ini digunakan untuk melakukan transaksi swap pada jaringan **Arbi
 
 1. **Clone repositori**
    ```bash
-   git clone https://github.com/username/euclid-testnet-bot.git
-   cd euclid-testnet-bot
+   git clone https://github.com/Gusma-crypto/gzeuclid.git
+   cd gzeuclid
    ```
 2. **Install Dependencies**
 ```bash
